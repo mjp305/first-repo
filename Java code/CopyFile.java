@@ -1,6 +1,14 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+Task= The purpose of this code is to allow the user to copy a file from the source file to a target file.
+
+This code allows the user to:
+• Provide the name of the source file (or path name of the source file) to copy at
+the terminal / NetBeans Console.
+• Provide the name of the target file (or path) from the terminal// NetBeans
+Console.
+• Copy the content of the source file to the target file.
+• Print the content of the target file into the terminal / NetBeans Console.
+• Print the metadata (Absolute path, Writeable, Readable, and file size in byt
  */
 package copyfile.java;
 import java.io.*;
