@@ -8,7 +8,8 @@ the terminal / NetBeans Console.
 Console.
 • Copy the content of the source file to the target file.
 • Print the content of the target file into the terminal / NetBeans Console.
-• Print the metadata (Absolute path, Writeable, Readable, and file size in byt
+• Print the metadata (Absolute path, Writeable, Readable, and file size in bytes) of the
+target file into the terminal/ / NetBeans Console.
  */
 package copyfile.java;
 import java.io.*;
